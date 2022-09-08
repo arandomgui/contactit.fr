@@ -1,0 +1,29 @@
+input: .
+output: .retype
+url: https://liens.contactit.fr
+branding:
+  title: contactit.fr
+  logo: contactit.webp
+  label: Docs
+links:
+- text: Accueil
+  link: https://contactit.fr
+  icon: three-bars
+- text: Windows
+  link: https://windows.contactit.fr
+  icon: table
+- text: Cisco
+  link: https://docs.contactit.fr
+  icon: server
+- text: GNU/Linux
+  link: https://linux.contactit.fr
+  icon: terminal
+- text: Liens utiles
+  link: https://liens.contactit.fr
+  icon: link
+- text: Mentions Légales
+  link: https://mentionslegales.contactit.fr
+  target: blank
+  icon: law
+footer:
+  copyright: "&copy; Copyright {{ year }}. Tous droits reservés."
